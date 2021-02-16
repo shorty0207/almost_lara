@@ -1,0 +1,13 @@
+{
+    "name": "gucvy/almost-lara",
+    "description": "Almost lara mvc learning",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shorty0207",
+            "email": "vytguc@gmail.com"
+        }
+    ],
+    "require": {}
+}
